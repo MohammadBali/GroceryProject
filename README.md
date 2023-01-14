@@ -1,6 +1,6 @@
 # recipe_project
 
-A new Flutter project.
+A Flutter project showing recopies by search and allows for grocery items add.
 
 ## Getting Started
 
